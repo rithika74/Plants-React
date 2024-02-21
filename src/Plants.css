@@ -1,0 +1,43 @@
+
+.head{
+    font-size: 64px;
+    font-weight: 400;
+}
+.btn{
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    width: 140px;
+}
+.blk span{
+    display: inline;
+    margin-right: 40px;
+    font-size: 32px;
+    font-weight: bold;
+    color: #6b6767;
+}
+.background{
+    background-color: #ebe7e7;
+    height: 440px;
+    width: 100%;
+}
+.img-container{
+    position: relative;
+}
+.text-overlay{
+    position: absolute;
+    top: 50px;
+    left: 150px;
+}
+.input-box{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    width: 400px;
+}
+.input-box:focus{
+    outline: none;
+}
+
+
+
